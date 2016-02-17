@@ -1,6 +1,6 @@
 <!--- Please insert your code here --->
 <cfset mattHager = "He is awesome">
-<cfset myFamily = "Brilliant, first class citizens">
+<cfset myFamily = "Brilliant, first class citizens (usually)">
 
 <cfoutput>
 	Describe Matt Hager?  #mattHager#<br>
