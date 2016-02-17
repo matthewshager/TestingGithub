@@ -1,5 +1,5 @@
-<cfset strGreeting = "Hello">
+<cfset strGreeting = "Hello from Matt">
 
 <cfoutput>
-	This is my greeting: #strGreeting#<hr>
+	This is my new greeting: #strGreeting#<hr>
 </cfoutput>
