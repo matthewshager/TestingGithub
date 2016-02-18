@@ -4,6 +4,7 @@
 <cfset intSimpleSum = 2 + 3>
 <cfset strYada = "Yada">
 <cfset strString = "string">
+<cfset strChange = "Ch-Ch-Changes">
 
 <cfoutput>
 	This is my new greeting: #strGreeting#<hr>
@@ -12,4 +13,5 @@
 	Simple sum: #intSimpleSum#<hr>
 	Yada = #strYada#<hr>
 	strstring = #strString#<hr>
+	strChange = #strChange#<hr>
 </cfoutput>
