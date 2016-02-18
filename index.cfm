@@ -4,11 +4,13 @@
 <cfset myCoworkers = "Great to be a part of, proud of this organization">
 <cfset myNeighbors = "They are like State Farm agents - good">
 <cfset mySister = "Talented">
+<cfset myDreams = "Good health, happy family">
 
 <cfoutput>
 	Describe Matt Hager?  #mattHager#<br>
 	What about his family? #myFamily#<br>
 	How about coworkers? #myCoworkers#<br>
 	And neighbors?: #myNeighbors#<br>
-	What about your sister?: #mySister#
+	What about your sister?: #mySister#<br>
+	And your dreams?: #myDreams#
 </cfoutput>
