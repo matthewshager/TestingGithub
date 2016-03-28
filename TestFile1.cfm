@@ -5,7 +5,7 @@
 <cfset strYada = "Yada">
 <cfset strString = "string">
 <cfset strChange = "Ch-Ch-Changes">
-<cfset strMyAddress = "816 S. 26th St">
+<cfset strMyAddress = "816 S. 26th St, West Des Moines, IA">
 
 <cfoutput>
 	This is my new greeting: #strGreeting#<hr>
